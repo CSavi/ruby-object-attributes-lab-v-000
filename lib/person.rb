@@ -5,7 +5,7 @@ class Person
   end   
   
   def name 
-    "#{@name}" 
+    @names
   end   
 
   def job=(my_job)
